@@ -42,7 +42,7 @@ export function register(config) {
         // service worker/PWA documentation.
         navigator.serviceWorker.ready.then(() => {
           console.log(
-            just check on it
+            just check 
           );
         });
       } else {
@@ -75,7 +75,7 @@ function registerValidSW(swUrl, config) {
 
               // Execute callback
               if (config && config.onUpdate) {
-                config.onUpdate(registration);
+                config.onUpdate(register);
               }
             } else {
               // At this point, everything has been precached.
