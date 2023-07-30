@@ -10,11 +10,11 @@ function App() {
       </div>
       <div className="footer-info">
         <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
-          Source Code
+          code
         </a>{" "}
         | Developed by{" "}
         <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav
+          Elijah
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
