@@ -20,7 +20,7 @@ function Forcast(props) {
         setQuery("");
       })
       .catch(function (error) {
-        console.log(error);
+        console.log(there is an error);
         setWeather("");
         setQuery("");
         setError({ message: "Not Found", query: query });
