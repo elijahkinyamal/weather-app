@@ -177,9 +177,9 @@ img {
   max-width: 100%;
 }
 .current-time {
-  font-size: 35px;
+  font-size: 36px;
   font-weight: 100;
-  margin-bottom: 10px;
+  margin-bottom: 11px;
   letter-spacing: 1px;
 }
 .current-date {
@@ -215,18 +215,18 @@ body a {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 51px;
   font-weight: 400;
   color: #f9f9f9;
   font-family: "Oxygen", sans-serif;
-  letter-spacing: 7px;
+  letter-spacing: 8px;
   margin-top: 50px;
 }
 
 .container {
   width: 65%;
   height: 80vh;
-  margin: 50px auto;
+  margin: 52px auto;
   background-color: rgba(0, 0, 0, 0.73);
 }
 
